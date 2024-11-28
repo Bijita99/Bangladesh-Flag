@@ -1,0 +1,18 @@
+.square{
+    height: 600px;
+    width: 900px;
+    background-color:#006a4eff;
+    position: relative;
+    margin: 80px;
+}
+.circle{
+    height: 300px;
+    width: 300px;
+    background-color:#f42a41ff ;
+    border-radius: 50%;
+    position: absolute;
+    top: 150px;
+    left:300px ;
+}
+
+
